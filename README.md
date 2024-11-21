@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hassan Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1>Hi 👋, I'm Hassan Ahmed</h1>
 
-<h4>💻 About Me:</h4>
+<h4>💫 About Me:</h4>
 Hey there! 👋 I’m a passionate Front-End Developer who loves crafting responsive and visually stunning web interfaces. I’ve honed my skills with HTML, CSS, JavaScript, ReactJS, and Next.js to build dynamic and user-friendly applications.
 
 Currently, I’m venturing into the Backend Development world, diving into MongoDB, Express.js, and other server-side technologies. It’s an exciting journey, and I’m thrilled to expand my expertise in full-stack development.
