@@ -11,7 +11,7 @@
 [![X](https://img.shields.io/badge/X-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ---
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5ryTY9VShCV5uJWhoBXkcxxlFB8O5bbxGA&s
 ## 💻 **Tech Stack:**  
 ### **Languages & Frameworks:**  
 - HTML5, CSS3, JavaScript  
