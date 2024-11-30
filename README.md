@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Hassan Ahmed</h1>
 
 <h3>💫 About Me:</h4>
-Hey there! 👋 I’m a passionate Front-End Developer who loves crafting responsive and visually stunningstunningstunning webwebweb interfaces.I specialize in HTML, CSS, JavaScript, ReactJS, and Next.js, creating engaging and responsive web applications.Currently, I'm exploring backend development with MongoDB, Express.js, and other server-side technologies. It’s an exciting journey, and I’m thrilled to expand my expertise in full-stack development.I’m eager to learn more programming languages, frameworks, and tools to continuously grow and push the boundaries of what I can create. Let’s collaborate and build something amazing. 🚀
+Hey there! 👋 I’m a passionate Front-End Developer who loves crafting responsive and visually stunningstunningstunning web interfaces.I specialize in HTML, CSS, JavaScript, ReactJS, and Next.js, creating engaging and responsive web applications.Currently, I'm exploring backend development with MongoDB, Express.js, and other server-side technologies. It’s an exciting journey, and I’m thrilled to expand my expertise in full-stack development.I’m eager to learn more programming languages, frameworks, and tools to continuously grow and push the boundaries of what I can create. Let’s collaborate and build something amazing. 🚀
 
 ( )
 - 🔭 I’m currently working on **My Portfolio**
