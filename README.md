@@ -2,12 +2,13 @@
 <h2>Hi 👋, I'm Hassan Ahmed</h2>
 
 <h3>💫 About Me:</h4>
-Hey there! 👋 I’m a BS Fintech student at FAST University.I have completed skills in Front-End Development, building responsive and user-friendly interfaces with HTML, CSS, JavaScript, ReactJS, and Next.js.I am also exploring back-end development with MongoDB, Express.js, and other server-side technologies, combining my fintech studies with practical development experience.
+Hey there! 👋 I’m a BS Fintech student at FAST University.I have completed skills in Front-End Development, building responsive and user-friendly interfaces with HTML, CSS, JavaScript and ReactJS.I also have some knowledge about back-end development with MongoDB, Express.js, and other server-side technologies, combining my fintech studies with practical development experience.
 
 ( )
-- 🔭 I am  currently pursuing Bs Degree in FinTech from Fast Nuces
-- 🌱 Ask me avout **Javascript: ReactJS , Nextjs**
-- 📫 How to reach me **hassanshakeel381@gmail.com**
+- 🔭 I am currently pursuing Bs Degree in FinTech from Fast Nuces.
+- 📫 I have completed Web Development Course.
+- 🌱 Ask me about **Javascript: ReactJS , Nextjs**.
+- 📫 How to reach me **hassanshakeel381@gmail.com**.
 - 📄 Know about my experiences. linkedin.com/in/hassan-ahmed-52bb52324
 
 
