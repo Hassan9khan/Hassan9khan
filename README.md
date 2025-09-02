@@ -9,7 +9,7 @@ Hey there! 👋 I’m a BS Fintech student at FAST University.I have completed s
 - 📫 I have completed Web Development Course.
 - 🌱 Ask me about **Javascript: ReactJS , Nextjs**.
 - 📫 How to reach me **hassanshakeel381@gmail.com**.
-- 📄 Know about my experiences. linkedin.com/in/hassan-ahmed-52bb52324
+- 📄 Know about my experiences. https://www.linkedin.com/in/hassan-ahmed-52bb52324/
 
 
 ## Connect with me:
