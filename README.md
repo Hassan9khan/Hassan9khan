@@ -53,6 +53,9 @@ Hey there! 👋 I’m a **BS FinTech** student at **FAST NUCES**. I specialize i
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan9khan&theme=tokyonight" alt="hassan9khan" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan9khan&theme=tokyonight" alt="hassan9khan" />
+</p>
 
 ## 🏆 GitHub Trophies:
 <p align="center">
